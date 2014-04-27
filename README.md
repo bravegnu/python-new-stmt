@@ -1,4 +1,4 @@
 python-new-stmt
 ===============
 
-Notes and code for the presentation title "Hacking Python: Adding a New Python Statement"
+Notes and code for the presentation titled "Hacking Python: Adding a New Python Statement"
